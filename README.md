@@ -79,6 +79,23 @@ If you aren't satisfied with the build tool and configuration choices, you can `
 
 
 Here are the few screenshots of the website,
-![1](https://user-images.githubuserco![2](https://user-images.githubusercontent.com/73329321/229564471-a22f4267-24ce-43dc-9685-24daf135d7a1.png)
-ntent.com/73329321/229564461-be9db186-5617-4edc-b9ed-0f24194ffcf4.png)
+![1](https://user-images.githubusercontent.com/73329321/229564762-0728bc63-8997-4834-bd25-d042c7135241.png)
+
+![2](https://user-images.githubusercontent.com/73329321/229564873-5186e690-391a-45fc-b331-915408e274b3.png)
+
+![3](https://user-images.githubusercontent.com/73329321/229564903-8c9a0a9c-04fa-4ae1-9a8d-195456bef426.png)
+
+![4](https://user-images.githubusercontent.com/73329321/229564926-e4f2ec2c-46b2-43e8-b59c-6b6e1ae135b5.png)
+
+![5](https://user-images.githubusercontent.com/73329321/229564945-2abd5832-3f34-417f-949e-cd0000019828.png)
+
+![6](https://user-images.githubusercontent.com/73329321/229564967-e11d5a3f-7352-44a1-96bd-fe7fae69c76d.png)
+
+![7](https://user-images.githubusercontent.com/73329321/229564980-ef675053-cbcd-48cc-8660-5ca43fdff984.png)
+
+![8](https://user-images.githubusercontent.com/73329321/229564996-682955f0-8deb-463c-bafb-9091b7d94d41.png)
+
+![9](https://user-images.githubusercontent.com/73329321/229565015-e88f6408-5fb8-4111-99ca-f8b1346879cd.png)
+
+Results will be stored on local storage.
 

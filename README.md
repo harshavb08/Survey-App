@@ -1,4 +1,5 @@
 ## Made this frontend-project as a part of task given by CODE InBound
+Deployed Link: https://survey-app-codeinbound.netlify.app/
 
 Tech stack: ReactJs
 
@@ -97,5 +98,5 @@ Here are the few screenshots of the website,
 
 ![9](https://user-images.githubusercontent.com/73329321/229565015-e88f6408-5fb8-4111-99ca-f8b1346879cd.png)
 
-Results will be stored on local storage.
+Results will be stored on local storage (Developer Tools > Application > Storage > Local Storage > https://survey-app-codeinbound.netlify.app/).
 
